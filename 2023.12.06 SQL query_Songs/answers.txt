@@ -1,0 +1,15 @@
+1. If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+I calculated the average energy as 0.65906, valence as 0.484443, and danceability as 0.71646 of this person's top 100 songs. Based on what I found, combined with the audio aura
+descriptors from Spotify, I would estimate this person to be happy and passionate or a Pink and a Purple aura.
+
+
+2. Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+I'm not sure basing what a person listens to based on energy, valence, and danceability is a good way to get to know them or would be very representative of them as a person.
+Only what they listened to. You don't know the why behind their musical choices. There is a lot to take into consideration when determining what is representative of one listener
+and why they chose to listen to what they listen to.
+
+Rather than look at the top songs based on those three categories, I would look at how much they've listened to particular music or an artist, or how much acoustic,
+electric, jazz, rock, pop, and etc do they listen to. I would factor in the percentage of streams of their musical choices using more categories over all the music they streamed.
+If they tend to listen more to a particular genre or artist, over others, it would better determine their mood or aura for the year.

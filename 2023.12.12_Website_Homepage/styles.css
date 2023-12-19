@@ -1,0 +1,41 @@
+  * {
+    font-family: Helvetica, sans-serif;
+    background-color: #F7F7F7;
+  }
+
+  nav {
+    background-color: #F7F7F7;
+  }
+
+  /* Change color on hover */
+  nav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+
+  a {
+      color: black;
+  }
+
+  a:hover {
+      color: #cc99ff;
+  }
+
+  body {
+    margin: 0;
+    font-family: helvetica, sans-serif;
+    background-color: #F7F7F7;
+  }
+
+  h1, h2, h3 {
+    color: #1a1a1a;
+    text-align: center;
+    font-family: helvetica, sans-serif;
+  }
+
+  footer {
+    margin: 0;
+    background-color: #F7F7F7;
+    padding: 10px;
+  }
+
