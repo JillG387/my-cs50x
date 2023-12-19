@@ -1,6 +1,0 @@
-Prompt user for height
-Use get_int to ask for an int as input
-If height is not numerical, or not between 1 and 8:
-    Re-prompt user for height
-If height is between 1 and 8, and i=1:
-    While i is less than or equal to 8, print an equal amount of hashtags, and then a new line
